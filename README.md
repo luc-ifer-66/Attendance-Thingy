@@ -1,0 +1,2 @@
+# Attendance-Thingy
+Just bored
