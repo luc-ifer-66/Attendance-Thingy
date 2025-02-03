@@ -1,7 +1,7 @@
 # Attendance Thingy
 
 ## Main Points:
-- [ ]  Current Data Entry
+- [v]  Current Data Entry
 - [ ]  Enter No.of subjects and take names
 - [ ]  Enter No.of Hours per week
 - [ ]  Estimate no.of classes till exam
